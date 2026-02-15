@@ -7,6 +7,7 @@
 ## 2025
 - /bin/hacken Assembly bei der GPN23
 - Mitwirkung an der Connections 2
+- Stand auf dem [Macherdaach](https://ztl.space/macherdaach/)
 - /bin/hacken Assembly beim 38c3
 
 ## 2024
