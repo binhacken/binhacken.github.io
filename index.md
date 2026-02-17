@@ -16,11 +16,11 @@ Aktuell treffen wir uns aktuell im JuZ Bingen und in unserem Raum auf dem Racke-
 ## Was sind Hacker
 
 Hacker sind Personen, die kreativ mit Technik umgehen und den offenen Umgang mit Wissen und das Austauschen in Gruppen schätzen.  
-Wir halten uns an die [Hacker-Ethik](https://www.ccc.de/hackerethik), was es uns verbietet Dinge zu hacken, für die wir keine Erlaubnis haben. Demnach basteln wir meist nur an eigenen Projekten oder helfen uns gegenseitig aus.
+Wir halten uns an die [Hacker-Ethik](https://www.ccc.de/hackerethik), die uns verbietet Dinge zu hacken, für die wir keine Erlaubnis haben. Demnach basteln wir meist nur an eigenen Projekten oder helfen uns gegenseitig aus.
 
 ## Was ist ein Hackerspace
 
-Ein Hackerspace ist ein eigenverwalteter Raum, in dem Werkzeug, Infrastruktur und Wissen für verschiedene Projekte zur Verfügung gestellt werden. Das Konzept der Hackerspaces funktioniert weltweit und auf Hackerspaces.org findest Du eine Karte mit Hackerspaces in [Deutschland](https://wiki.hackerspaces.org/germany) und [weltweit](https://wiki.hackerspaces.org/List_of_Hackerspaces), auf der aktuell über 2400 Spaces gelistet sind.
+Ein Hackerspace ist ein eigenverwalteter Raum, in dem Werkzeug, Infrastruktur und Wissen für verschiedene Projekte zur Verfügung gestellt werden. Das Konzept der Hackerspaces funktioniert weltweit und auf Hackerspaces.org findest du eine Karte mit Hackerspaces in [Deutschland](https://wiki.hackerspaces.org/germany) und [weltweit](https://wiki.hackerspaces.org/List_of_Hackerspaces), auf der aktuell über 2400 Spaces gelistet sind.
 
 Meist wird der Space von einem gemeinnützigen Verein verwaltet und durch Mitgliedsbeiträge finanziert. Es gibt wöchentliche offene Treffen, an denen jeder teilnehmen darf. Mitglieder haben auch darüberhinaus jederzeit Zugang zum Space. Zusätzlich gibt es offene Lernangebote wie Workshops, Vorträge und Ähnliches.
 
@@ -32,7 +32,7 @@ Aus dem Konzept Hackerspace sind auch Makerspaces, Fablabs und Co-working Spaces
 ![Building a breadboard computer](/assets/images/breadboardz.jpg)
 -->
 
-Unser Interesse an Technologien ist breit gefächert. Damit Du einen besseren Eindruck davon bekommst, mit was wir uns beschäftigen, haben wir hier ein paar Beispiele aufgelistet.
+Unser Interesse an Technologien ist breit gefächert. Damit du einen besseren Eindruck davon bekommst, mit was wir uns beschäftigen, haben wir hier ein paar Beispiele aufgelistet.
 
 - Programmierung
 - 3D Druck & CAD
@@ -45,18 +45,22 @@ Unser Interesse an Technologien ist breit gefächert. Damit Du einen besseren Ei
 - Netzpolitik
 - Siebdruck
 
-Natürlich kannst Du auch gerne neue Themen zu unseren Treffen mitbringen. Der gemeinsame Austausch lebt von neuen Ideen und Herausforderungen. 😊
+Natürlich kannst du auch gerne neue Themen zu unseren Treffen mitbringen. Der gemeinsame Austausch lebt von neuen Ideen und Herausforderungen. 😊
 
 ## Was wir nicht machen
 
 Wir beschäftigen uns viel mit Technik und Computern und verfügen auch über ein entsprechendes Wissen, trotzdem sind wir nicht der richtige Ansprechpartner um deine Windows-Probleme zu beheben oder deinen Computer zu reparieren.
-Dafür gibt es professionelle Dienstleister, die das gerne übernehmen. Auch brechen wir nicht in fremde Systeme, Webseiten oder Accounts ein. Wir folgen den Leitsätzen der [Hackerethik](https://www.ccc.de/hackerethik).
+Dafür gibt es professionelle Dienstleister, die das übernehmen. Auch brechen wir nicht in fremde Systeme, Webseiten oder Accounts ein. Wir folgen den Leitsätzen der [Hackerethik](https://www.ccc.de/hackerethik).
+
+Wir helfen dir aber gerne dabei, auf freie Software umzusteigen, damit du in Zukunft mehr Kontrolle über deine Geräte und Daten hast. Siehe dazu auch unsere [DiDay Events](/diday).
 
 ## Kommunikationskanäle
 
-Hier findest Du uns:
+Hier findest du uns:
 
 - [Matrix Server](https://matrix.to/#/#binhacken:matrix.org)
 - [Mastodon](https://chaos.social/@binhacken)
 - [Discord Server](https://discord.gg/A8YXme6eJK)
 - Email: [info@binhacken.de](mailto:info@binhacken.de)
+
+Und hier findest du einige Bilder von uns: [flickr.com/photos/binhacken](https://www.flickr.com/photos/binhacken) (viel von Veranstaltungen, aber auch andere Treffen)

@@ -14,7 +14,7 @@ hide_title: true
 ## Was ist ein Chaostreff
 
 [Chaostreffs](https://www.ccc.de/en/club/chaostreffs) sind lockere Zusammentreffen von Hackern, die sich dem [CCC](https://www.ccc.de/) nahefühlen.  
-Wir sind meistens ~10 Personen, es gibt Getränke, und oft bestellen wir auch Essen. Ansonsten ist es einfach ein lockeres beisammensein und sich unterhalten. Manchmal gibt es auch kleinere Vorträge oder Workshops.
+Wir sind meistens ~10 Personen, es gibt Getränke, und oft bestellen wir auch Essen. Ansonsten ist es einfach ein lockeres Beisammensein und sich unterhalten. Manchmal gibt es auch kleinere Vorträge oder Workshops.
 
 ## Chaostreff im JuZ
 
@@ -26,11 +26,11 @@ Adresse:
 Hinweis:
 Der Eingang ist auf der Rückseite, links durchs Tor.
 
-![Eingang JuZ Bingen](/assets/images/juz.jpg)
+![Eingang JuZ Bingen](/assets/images/binhacken-JuZ-Anfahrt-web.svg)
 
 ## Offener Space beim Racke-Gelände
 
-Freitags ab 19 Uhr treffen wir uns auch in unserem eigenen Raum auf dem Racke-Gelände in der Gaustraße 22-32. Hier ist es etwas kleiner und ruhiger als im JuZ, aber dafür auch besser für das Arbeiten an Projekten oder anderen Bastelein geeignet.
+Freitags ab 19 Uhr treffen wir uns auch in unserem eigenen Raum auf dem Racke-Gelände in der Gaustraße 22-32. Hier ist es etwas kleiner und ruhiger als im JuZ, aber umso angenehmer für das Arbeiten an Projekten oder anderen Bastelein.
 
 Adresse:
 [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
