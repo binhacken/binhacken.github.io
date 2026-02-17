@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/assets/fonts/open-sans-v34-latin-regular.woff2') format('woff2'),
+         url('/assets/fonts/open-sans-v34-latin-regular.woff') format('woff'),
+         url('/assets/fonts/open-sans-v34-latin-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/assets/fonts/open-sans-v34-latin-700.woff2') format('woff2'),
+         url('/assets/fonts/open-sans-v34-latin-700.woff') format('woff'),
+         url('/assets/fonts/open-sans-v34-latin-700.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #3c3c3c;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+} 
+
+a{
+    color: #00a4ca;
+}
+
+main h1, 
+main h2, 
+main h3, 
+main h4, 
+main h5, 
+main h6 {
+    color: #20c20e;
+    font-weight: 400;
+    margin: 1rem 0;
+}
+
+main, header>div {
+    margin: 0 auto;
+    width: 90%;          /* use most of screen on normal monitors */
+    max-width: 870px;   /* caps width on large / ultrawide screens */
+    padding: 0rem 1rem;  /* adds small horizontal padding for phones */
+}
+
+@media (max-width: 640px) {
+    main, header>div {
+        width: 95%;      /* almost full width on phones */
+        padding: 0 1rem;   /* smaller padding top & sides */
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+main p {
+    line-height: 1.4;
+}
+
+#title {
+    display: flex;
+    align-items: center;
+}
+#title h1 {
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+/* ===== Funny cursor ===== */
+* {
+    cursor: url(/assets/images/cursor.png) 4 12, auto;
+}
+
+a, button {
+    cursor: url(/assets/images/cursor2.png) 4 12, pointer;
+}
+
+/* ===== Page Header ===== */
+header {
+    background-image: none;
+    background: #232323;
+    border-bottom: 5px solid #20c20e;
+    padding: 0;
+    padding-top: 1rem;
+}
+
+header .logo {
+    height: 3.25rem;
+    transform: rotate(30deg);
+    padding: 0 1rem;
+}
+
+.project-tagline {
+    margin: 1rem;
+    display: inline-block;
+}
+
+header nav a {
+    display: inline-block;
+    padding: 20px 10px;
+    border-bottom: 1px solid transparent;
+    color: rgba(255, 255, 255, .8);
+    transition: .2s ease-in-out;
+    text-decoration: none;
+}
+  
+header nav a:hover,
+header nav a.active {
+    background: #20c20e;
+    color: #fff;
+}
+
+/* ===== Buttons ===== */
+.button a, input[type=submit] {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px;
+    background: #4182e4;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    transition: .2s ease-in-out;
+}
+  
+.button a:hover, input[type=submit]:hover {
+    background: #4182e4;
+    cursor: url(/assets/images/cursor2.png) 4 12, pointer;
+}
+  
+.button.alt a {
+    background: rgba(255, 255, 255, .15);
+    border-radius: 3px;
+    border: 1px solid transparent;
+    padding: 16px 50px;
+}
+  
+.button.alt a:hover {
+    background: #fff;
+    color: #4182e4;
+}
+
+/* ===== Footer ===== */
+footer {
+    text-align: center;
+}
+
+footer a {
+    color: rgba(255, 255, 255, .35);
+    text-decoration: none;
+}

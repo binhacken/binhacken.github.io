@@ -5,6 +5,8 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://binhacken.de"
 
+header_title: Make- & Hackspace Bingen
+
 # Build settings
 theme: minima
 plugins:

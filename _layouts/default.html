@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <title>{{ page.title }} {{ site.title }}</title>
+    <meta name="title" content="{{ page.title }} - {{ site.title }}">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+
+    <link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+    <header>
+        <div>
+            <div id="title">
+                <a href="/">
+                    <img src="/assets/images/cyber_axe_inverted.svg" alt="binhacken Logo" class="logo">
+                </a>
+                
+                <h1 class="project-tagline">{{ site.header_title }}</h1>
+            </div>
+
+            <nav>
+                {% for item in site.data.menu %}
+                {% assign link_with_html = item.link | append: '.html' %}
+                <a class="{% if page.url == item.link or page.url == link_with_html %}active{% endif %}" href="{{item.link}}">{{item.title}}</a>
+                {% endfor %}
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <a href="impressum">Impressum</a>
+    </footer>
+</body>
+
+</html>
