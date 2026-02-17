@@ -11,3 +11,5 @@ header_title: Make- & Hackspace Bingen
 theme: minima
 plugins:
   - jekyll-feed
+
+permalink: /blog/:title/
