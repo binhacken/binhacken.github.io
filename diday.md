@@ -3,7 +3,7 @@ layout: default
 title: DiDay
 ---
 
-## "Jeden ersten Sonntag auf die gute Seite wechseln!
+## Jeden ersten Sonntag auf die gute Seite wechseln!
 
 Unser digitales Leben befindet sich in der Hand weniger Überreicher. Mit der Monopolstellung ihrer Unternehmen bestimmen Menschen wie Elon Musk, Jeff Bezos oder Mark Zuckerberg weltweit, wie wir uns online informieren, wie wir diskutieren, kommunizieren oder handeln. Einen solchen unkontrollierten Einfluss sollte kein Mensch und kein Unternehmen besitzen, weil wir dann nicht mehr in Freiheit leben können."
 
