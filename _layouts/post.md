@@ -3,13 +3,13 @@ layout: default
 ---
 
 <article class="post">
-    <h1>{{ page.title }}</h1>
     <p>
         {{ page.date | date: "%Y-%m-%d" }}
         {% if page.author %}
-            by {{ page.author }}
+        von <i>{{ page.author }}</i>
         {% endif %}
     </p>
 
     {{ content }}
+
 </article>

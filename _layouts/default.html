@@ -40,6 +40,10 @@
     </header>
 
     <main>
+        {% if page.hide_title != true %}
+        <h2>{{ page.title }}</h2>
+        {% endif %}
+        
         {{ content }}
     </main>
 

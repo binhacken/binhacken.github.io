@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Blog
+hide_title: true
 ---
 
-## Latest Posts
+## Neuste Posts
 
-<ul>
+<ul id="blog-posts">
 {% for post in site.posts %}
 <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
