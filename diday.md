@@ -26,7 +26,7 @@ Beim DiDay unterstützt /bin/hacken die Umsetzung von digitaler Souveränität f
 Ob beim Linux installieren, der Suche nach einem datenschutzfreundlicheren Messenger oder dem Wechsel zu europäischen Mailanbietern, wir wollen in lockerer Atmosphäre dabei unterstützen.
 
 Wann: 01.03.2026 12:00 - 16:00 Uhr  
-Wo: In unserem Raum auf dem Racke-Gelände, [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
+Wo: In unserem Raum auf dem Racke-Gelände, [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=) (siehe [treffen](/treffen))
 
 </div>
 

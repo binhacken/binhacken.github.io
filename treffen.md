@@ -7,7 +7,7 @@ hide_title: true
 ## TL;DR
 
 - Jeden Dienstag + 1. Samstag im Monat: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
-- Jeden Freitag: Offener Space auf dem [Racke-Gelände](https://www.openstreetmap.org/way/309728235)
+- Jeden Freitag: Offener Space auf dem Racke-Gelände in der [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
 
 → Immer ab 19 Uhr
 
