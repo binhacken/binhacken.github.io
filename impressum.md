@@ -3,8 +3,6 @@ layout: default
 title: Impressum
 ---
 
-# Impressum
-
 Make- und Hackspace Bingen e. V.  
 In der Eisel 9 (Postadresse, kein Besuch!)  
 55411 Bingen am Rhein
