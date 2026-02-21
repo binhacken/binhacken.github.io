@@ -6,19 +6,20 @@ hide_title: true
 
 ## TL;DR
 
-- Jeden Dienstag + 1. Samstag im Monat: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
+- Jeden Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
 - Jeden Freitag: Offener Space auf dem Racke-Gelände in der [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
+- 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
 
 → Immer ab 19 Uhr
 
 ## Was ist ein Chaostreff
 
-[Chaostreffs](https://www.ccc.de/en/club/chaostreffs) sind lockere Zusammentreffen von Hackern, die sich dem [CCC](https://www.ccc.de/) nahefühlen.  
+[Chaostreffs](https://www.ccc.de/en/club/chaostreffs) sind lockere Zusammentreffen von Hackern, die sich dem [CCC](https://www.ccc.de/) nahe fühlen.  
 Wir sind meistens ~10 Personen, es gibt Getränke, und oft bestellen wir auch Essen. Ansonsten ist es einfach ein lockeres Beisammensein und sich unterhalten. Manchmal gibt es auch kleinere Vorträge oder Workshops.
 
 ## Chaostreff im JuZ
 
-Wir treffen uns jeden Dienstag und am ersten Samstag des Monats ab 19 Uhr im [JuZ Bingen](https://www.juz-bingen.de/). Hier gibt es eine Getränketheke und Musik. Es ist ein offener Treffpunkt für lokale Gruppen.
+Wir treffen uns jeden Dienstag des Monats ab 19 Uhr im [JuZ Bingen](https://www.juz-bingen.de/). Hier gibt es eine Getränketheke und Musik. Es ist ein offener Treffpunkt für lokale Gruppen. Am ersten Samstag des Monats findet hier außerdem die Gaming Theke statt.
 
 Adresse:
 [Mainzer Straße 103a](https://www.openstreetmap.org/node/1613115329)
