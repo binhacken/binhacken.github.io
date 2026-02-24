@@ -6,11 +6,11 @@ hide_title: true
 
 ## TL;DR
 
-- Jeden Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
-- Jeden Freitag: Offener Space auf dem Racke-Gelände in der [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
+- Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
+- Freitag: Offener Space auf dem Racke-Gelände in der [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
 - 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
 
-→ Immer ab 19 Uhr
+→ Immer ab 19:00 Uhr
 
 ## Was ist ein Chaostreff
 
@@ -19,7 +19,7 @@ Wir sind meistens ~10 Personen, es gibt Getränke, und oft bestellen wir auch Es
 
 ## Chaostreff im JuZ
 
-Wir treffen uns jeden Dienstag des Monats ab 19 Uhr im [JuZ Bingen](https://www.juz-bingen.de/). Hier gibt es eine Getränketheke und Musik. Es ist ein offener Treffpunkt für lokale Gruppen. Am ersten Samstag des Monats findet hier außerdem die Gaming Theke statt.
+Wir treffen uns jeden Dienstag ab 19:00 Uhr im [JuZ Bingen](https://www.juz-bingen.de/). Hier gibt es eine Getränketheke und Musik. Am ersten Samstag des Monats findet hier außerdem die Gaming Theke statt.
 
 Adresse:
 [Mainzer Straße 103a](https://www.openstreetmap.org/node/1613115329)
@@ -31,7 +31,7 @@ Der Eingang ist auf der Rückseite, links durchs Tor.
 
 ## Offener Space beim Racke-Gelände
 
-Freitags ab 19 Uhr treffen wir uns auch in unserem eigenen Raum auf dem Racke-Gelände in der Gaustraße 22-32. Hier ist es etwas kleiner und ruhiger als im JuZ, aber umso angenehmer für das Arbeiten an Projekten oder anderen Bastelein.
+Freitags ab 19:00 Uhr treffen wir uns auch in unserem eigenen Raum auf dem Racke-Gelände in der Gaustraße 22-32. Hier ist es etwas kleiner und ruhiger als im JuZ, aber umso angenehmer für das Arbeiten an Projekten oder anderen Bastelein.
 
 Adresse:
 [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
