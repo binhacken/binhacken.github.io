@@ -8,6 +8,23 @@ hide_title: true
 
 Am Samstag, den 28.03. laden wir euch herzlich zum Tag des offenen Hackspace ein. Kommt vorbei, lernt uns und unsere Räumlichkeit kennen und endeckt spannende Projekte. Ab 14:00 Uhr öffnen wir unsere Türen für alle Interessierten. Es ist keine Anmeldung erforderlich, bringt gerne Freunde und Familie mit! Bis 20:00 Uhr freuen wir uns auf euren Besuch.
 
+## Was ist ein Hackspace?
+
+Ein Hackerspace ist ein gemeinschaftlich organisierter Raum, in dem technikinteressierte Menschen gemeinsam an Projekten arbeiten. Werkzeuge, Infrastruktur und Wissen werden offen geteilt, getragen durch einen gemeinnützigen Verein. Im Mittelpunkt stehen Austausch, gemeinsames Lernen, Open-Source-Kultur und der Spaß am Gerät. Offen für alle, die neugierig sind.
+
+## Was erwartet euch?
+
+Wir haben verschiedene Projekte und Aktivitäten vorbereitet, die ihr entdecken könnt. Unter anderem:
+
+- Lötworkshop
+- Pixelflut
+- 3D Druck
+- Game Development
+- Retro Gaming
+- Sticker
+
+## Hier findest du uns
+
 Adresse:
 [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx)
 
