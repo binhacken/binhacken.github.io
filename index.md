@@ -61,6 +61,6 @@ Hier findest du uns:
 - [Matrix Server](https://matrix.to/#/#binhacken:matrix.org)
 - [Mastodon](https://chaos.social/@binhacken)
 - [Discord Server](https://discord.gg/A8YXme6eJK)
-- Email: [info@binhacken.de](mailto:info@binhacken.de) **Mails von Telekom-Adressen verschwinden bei uns im magentafarbenen Nichts. Andere Adresse(als Absender oder in der Nachricht als Antwort-Adresse angegeben)**
+- Email: [info@binhacken.de](mailto:info@binhacken.de) **Mails von Telekom-Adressen verschwinden bei uns im magentafarbenen Nichts. Andere Adresse (als Absender verwenden oder in der Nachricht als Antwort-Adresse angegeben) hilft**
 
 Und hier findest du einige Bilder von uns: [flickr.com/photos/binhacken](https://www.flickr.com/photos/binhacken) (viel von Veranstaltungen, aber auch andere Treffen)
