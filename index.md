@@ -61,6 +61,6 @@ Hier findest du uns:
 - [Matrix Server](https://matrix.to/#/#binhacken:matrix.org)
 - [Mastodon](https://chaos.social/@binhacken)
 - [Discord Server](https://discord.gg/A8YXme6eJK)
-- Email: [info@binhacken.de](mailto:info@binhacken.de) **Das Ausmaß an Inkompetenz bei der Telekom ist ehrlich gesagt erschütternd. Deren ständige E-Mail-Blockaden beeinträchtigen unseren Betrieb massiv und machen es unmöglich, auf Nachrichten zu antworten. Es ist mehr als frustrierend, sich mit so einem unzuverlässigen Service herumschlagen zu müssen, während wir versuchen, mit unserem Netzwerk in Verbindung zu bleiben.!**
+- Email: [info@binhacken.de](mailto:info@binhacken.de) **Mails von Telekom-Adressen verschwinden bei uns im magentafarbenen Nichts. Andere Adresse(als Absender oder in der Nachricht als Antwort-Adresse angegeben)**
 
 Und hier findest du einige Bilder von uns: [flickr.com/photos/binhacken](https://www.flickr.com/photos/binhacken) (viel von Veranstaltungen, aber auch andere Treffen)
