@@ -4,7 +4,12 @@ title: DiDay
 hide_title: true
 ---
 
-## Jeden ersten Sonntag auf die gute Seite wechseln!
+## Wann?
+Am 6. September 2026 von 14:00 bis 17:00 Uhr.
+
+## Wo
+Im Stadtteilzentrum ZwoZwo, Koblenzer Straße 22 in Bingerbrück.
+
 ## Was?
 **TL;DR** Beim DiDay unterstützen Ehrenamtliche bei der Umsetzung von digitaler Souveränität für Alle.
 Ob beim Linux installieren, der Suche nach einem datenschutzfreundlicheren Messenger oder dem Wechsel zu europäischen Mailanbietern, wir wollen in lockerer Atmosphäre dabei unterstützen.
