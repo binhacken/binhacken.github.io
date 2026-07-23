@@ -5,9 +5,9 @@ hide_title: true
 ---
 
 ## Wann?
-Der Nächste DiDay in Bingen findet am Sonntag den 6. September von 14:00 bis 17:00 Uhr statt.
+Am 6. September 2026 von 14:00 bis 17:00 Uhr.
 
-## Wo?
+## Wo
 Im Stadtteilzentrum ZwoZwo, Koblenzer Straße 22 in Bingerbrück.
 
 ## Was?

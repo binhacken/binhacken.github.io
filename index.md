@@ -6,10 +6,10 @@ hide_title: true
 
 ## Über uns
 
-Wir sind eine Gruppe technikbegeisterter Menschen, die sich regelmäßig zum Austausch und zur Weiterbildung treffen und sich das Ziel gesetzt haben, einen Hackerspace zu gründen.  
+Wir sind eine Gruppe technikbegeisterter Menschen, die sich regelmäßig zum Austausch und zur Weiterbildung treffen.  
 Unsere Treffen begannen 2019 im AStA der TH Bingen.  
-Seit 2023 sind wir ein gemeinnütziger, eingetragener Verein. In dieser Struktur wollen wir unserem Ziel, einen Hackerspace zu eröffnen, einen Schritt näherkommen. 2025 konnten wir dadurch unseren ersten eigenen Raum anmieten.  
-Aktuell treffen wir uns aktuell im JuZ Bingen und in unserem Raum auf dem Racke-Gelände in der Gaustraße 22-32. Siehe [Treffen](/treffen) für mehr Informationen zur Anreise.
+Seit 2023 sind wir ein gemeinnütziger, eingetragener Verein. In dieser Struktur konnten wir unser erstes Ziel, einen Hackerspace zu eröffnen, erreichen. 2025 konnten wir dadurch unseren ersten eigenen Raum anmieten. Im Frühjahr 2026 sind wir in neue Räumlichkeiten in Gaulsheim umgezogen.
+Aktuell treffen wir uns dienstags im JuZ Bingen und freitags in unserem Raum in Bingen-Gaulsheim. Siehe [Treffen](/treffen) für mehr Informationen zur Anreise.
 
 ![Treffen im JuZ. Hacker sitzen am Tisch mit Laptops](/assets/images/binhackers.jpg)
 
@@ -61,6 +61,6 @@ Hier findest du uns:
 - [Matrix Server](https://matrix.to/#/#binhacken:matrix.org)
 - [Mastodon](https://chaos.social/@binhacken)
 - [Discord Server](https://discord.gg/A8YXme6eJK)
-- Email: [info@binhacken.de](mailto:info@binhacken.de)
+- Email: [info@binhacken.de](mailto:info@binhacken.de) **Mails von Telekom-Adressen verschwinden bei uns im magentafarbenen Nichts. Andere Adresse (als Absender verwenden oder in der Nachricht als Antwort-Adresse angegeben) hilft**
 
 Und hier findest du einige Bilder von uns: [flickr.com/photos/binhacken](https://www.flickr.com/photos/binhacken) (viel von Veranstaltungen, aber auch andere Treffen)

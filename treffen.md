@@ -7,8 +7,8 @@ hide_title: true
 ## TL;DR
 
 - Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
-- Freitag: Offener Space auf dem Racke-Gelände in der [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
-- 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
+- Freitag: Offener Space in unseren [Räumlichkeiten in Bingen-Gaulsheim](https://www.openstreetmap.org/way/559447251)
+- jeden 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
 
 → Immer ab 19:00 Uhr
 
@@ -29,14 +29,15 @@ Der Eingang ist auf der Rückseite, links durchs Tor.
 
 ![Eingang JuZ Bingen](/assets/images/binhacken-JuZ-Anfahrt-web.svg)
 
-## Offener Space beim Racke-Gelände
+## Offener Space in Bingen-Gaulsheim
 
-Freitags ab 19:00 Uhr treffen wir uns auch in unserem eigenen Raum auf dem Racke-Gelände in der Gaustraße 22-32. Hier ist es etwas kleiner und ruhiger als im JuZ, aber umso angenehmer für das Arbeiten an Projekten oder anderen Bastelein.
+Freitags ab 19:00 Uhr treffen wir uns auch in unserem eigenen Raum. Hier ist es etwas kleiner und ruhiger als im JuZ, aber umso angenehmer für das Arbeiten an Projekten oder anderen Bastelein.
 
 Adresse:
-[Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
+[Mainzer Straße 439](https://www.openstreetmap.org/way/559447251)
 
-Hinweis:
-Bei dem alten Mensa Gebäude ins Treppenhaus gehen, die Treppe hoch und die erste Tür links ist unser Raum (auch erkennbar an den Stickern).
+![Übersichtskarte](/assets/images/karte_space_gaulsheim_uebersicht.jpg)
 
-![Eingang Racke-Gelände](/assets/images/racke-klein.jpeg)
+![Karte Space Gaulsheim](/assets/images/karte_space_gaulsheim_nah.jpg)
+
+<a href="https://www.openstreetmap.org/copyright"><sup>Map data from Openstreetmap</sup></a>
