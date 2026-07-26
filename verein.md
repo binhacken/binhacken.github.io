@@ -12,7 +12,7 @@ Wir suchen ständig nach neuen Mitgliedern und helfenden Händen, um unsere Ziel
 
 ## Mitglied werden
 
-Hier findest du unsere [Satzung](https://wiki.binhacken.de/index.php/Verein/Satzung) und die [Beitragsordnung](https://wiki.binhacken.de/index.php/Verein/Beitragsordnung).
+Hier findest du unsere [Satzung](/satzung) und die [Beitragsordnung](/beitragsordnung).
 
 Du kannst unseren Mitgliedsantrag online ausfüllen:
 
@@ -20,7 +20,7 @@ Du kannst unseren Mitgliedsantrag online ausfüllen:
 2. Auf dieser Seite klicke auf den Button "Beitreten"
 3. Jetzt kannst du den Mitgliedsantrag ausfüllen und absenden.
 
-Alternativ kannst du auch den [Mitgliedsantrag als PDF](/assets/mitgliedsantrag.pdf) ausfüllen und uns per Email (siehe Homepage) schicken.
+Alternativ kannst du auch den [Mitgliedsantrag als PDF](/assets/mitgliedsantrag.pdf) ausfüllen und uns per [Email](mailto:info@binhacken.de) schicken.
 
 ## Warum machen wir das
 
