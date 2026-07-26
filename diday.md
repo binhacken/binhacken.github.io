@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiDay
+title: DiDay - Digital Independence Day
 hide_title: true
 ---
 
