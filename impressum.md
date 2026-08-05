@@ -11,7 +11,7 @@ Vereinsregister: VR 42292
 Registergericht: Amtsgericht Mainz
 
 <u>Vertreten durch:</u>  
-Peter Baußmann  
+Max Bossing
 Martin Koch  
 Stefan Kremser
 
