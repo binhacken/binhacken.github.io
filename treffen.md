@@ -8,7 +8,6 @@ hide_title: true
 
 - Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
 - Freitag: Offener Space in unseren [Räumlichkeiten in Bingen-Gaulsheim](https://www.openstreetmap.org/way/559447251)
-- jeden 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
 
 → Immer ab 19:00 Uhr
 
@@ -19,7 +18,7 @@ Wir sind meistens ~10 Personen, es gibt Getränke, und oft bestellen wir auch Es
 
 ## Chaostreff im JuZ
 
-Wir treffen uns jeden Dienstag ab 19:00 Uhr im [JuZ Bingen](https://www.juz-bingen.de/). Hier gibt es eine Getränketheke und Musik. Am ersten Samstag des Monats findet hier außerdem die Gaming Theke statt.
+Wir treffen uns jeden Dienstag ab 19:00 Uhr im [JuZ Bingen](https://www.juz-bingen.de/). Hier gibt es eine Getränketheke und Musik.
 
 Adresse:
 [Mainzer Straße 103a](https://www.openstreetmap.org/node/1613115329)
