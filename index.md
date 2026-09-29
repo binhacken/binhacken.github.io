@@ -54,7 +54,7 @@ Dafür gibt es professionelle Dienstleister, die das übernehmen. Auch brechen w
 
 Wir helfen dir aber gerne dabei, auf freie Software umzusteigen, damit du in Zukunft mehr Kontrolle über deine Geräte und Daten hast. Siehe dazu auch unsere [DiDay Events](/diday).
 
-## Kommunikationskanäle
+## Kontakt
 
 Hier findest du uns:
 
