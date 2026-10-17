@@ -5,7 +5,7 @@ hide_title: true
 ---
 
 ## Wann?
-Am 6. September 2026 von 14:00 bis 17:00 Uhr.
+Am 1. November 2026 von 15:00 bis 17:00 Uhr.
 
 ## Wo
 Im Stadtteilzentrum ZwoZwo, Koblenzer Straße 22 in Bingerbrück.
@@ -22,12 +22,12 @@ Den Aufruf zum DiDay findest du [hier](https://media.ccc.de/v/39c3-die-kanguru-r
 
 [https://diday.org/](https://diday.org/)
 
-<div id="next-diday" data-event-date="2026-06-07" markdown="1">
+<div id="next-diday" data-event-date="2026-11-01" markdown="1">
 ## Wann?
 
-### 07.06.2026 14:00 - 17:00 Uhr
+### 01.11.2026 15:00 - 17:00 Uhr
 
-Am 7. Juni von 14:00 bis 17:00 Uhr lädt /bin/hacken zum dritten Digital Independence Day in das Stadtteilzentrum ZwoZwo ein.
+Am 1. November von 15:00 bis 17:00 Uhr lädt /bin/hacken zum fünften Digital Independence Day in das Stadtteilzentrum ZwoZwo ein.
 
 ## Wo?
 Im Stadtteilzentrum ZwoZwo, Erdgeschoss, [Koblenzer Straße 22](https://www.openstreetmap.org/way/733595264#map=18/49.965630/7.888012)
