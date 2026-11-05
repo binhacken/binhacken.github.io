@@ -1,0 +1,62 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+
+# Allow the workflow to request an OIDC JWT from Forgejo (Authorized Integrations).
+enable-openid-connect: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      JEKYLL_ENV: production
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build --destination _site
+
+      - name: Compute short commit SHA
+        id: sha
+        run: echo "short=$(git rev-parse --short=7 HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Create html.tar.gz
+        run: |
+          mkdir -p dist/release
+          tar -czf dist/release/html.tar.gz -C _site .
+
+      - name: Fetch Authorized Integration JWT
+        id: jwt
+        env:
+          # "Audience" of the Authorized Integration in Forgejo user settings.
+          # Not confidential, safe to commit.
+          AUD: ${{ env.AUD_TOKEN }}
+        run: |
+          jwt=$(curl --fail -sS \
+            -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+            "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=$AUD" | jq -r .value)
+          echo "::add-mask::$jwt"
+          echo "jwt=$jwt" >> "$GITHUB_OUTPUT"
+
+      - name: Create release
+        uses: actions/forgejo-release@v2
+        with:
+          direction: upload
+          url: ${{ forge.server_url }}
+          repo: ${{ forge.repository }}
+          sha: ${{ forge.sha }}
+          token: ${{ steps.jwt.outputs.jwt }}
+          tag: ${{ steps.sha.outputs.short }}
+          title: Release ${{ steps.sha.outputs.short }}
+          release-notes: "Automated release for commit `${{ forge.sha }}`"
+          release-dir: dist/release
