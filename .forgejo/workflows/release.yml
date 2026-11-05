@@ -40,7 +40,7 @@ jobs:
         env:
           # "Audience" of the Authorized Integration in Forgejo user settings.
           # Not confidential, safe to commit.
-          AUD: ${{ env.AUD_TOKEN }}
+          AUD: ${{ vars.AUD_TOKEN }}
         run: |
           jwt=$(curl --fail -sS \
             -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
